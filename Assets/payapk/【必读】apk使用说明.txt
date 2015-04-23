@@ -1,0 +1,2 @@
+1.游戏发布时，必须将且仅将TencentUnipay.apk安装包必须集成到应用assets目录下。
+2.在测试时，测试机上请安装相应的测试apk来完成测试：游戏为横屏请使用TencentUnipay_debug_landscape.apk测试，竖屏则使用TencentUnipay_debug_portrait.apk测试；发布游戏时统一使用TencentUnipay.apk

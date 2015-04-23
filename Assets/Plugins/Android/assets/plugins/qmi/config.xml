@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+	<item id="com.tencent.qqgamemi.plugin.core" version="417" path="plugins/qmi/QmiCorePlugin.jpg" />
+
+	<item id="com.tencent.qqgamemi.raidersplugin" version="204" path="plugins/qmi/RaidersPlugin.jpg" />
+    
+    <item id="com.tencent.qqgamemi.forumplugin"   version="204" path="plugins/qmi/ForumPlugin.jpg" />
+	
+	<item id="com.tencent.qqgamemi.speedupplugin" version="4" path="plugins/qmi/SpeedUpPlugin.jpg" />
+	
+</plugin>
